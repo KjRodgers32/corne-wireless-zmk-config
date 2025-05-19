@@ -13,7 +13,7 @@
         compatible = "zmk,combos";
 
         OpenBracket {
-            bindings = <&kt LEFT_BRACE>;
+            bindings = <&kp LEFT_BRACE>;
             key-positions = <9 29>;
         };
     };
